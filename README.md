@@ -1,12 +1,17 @@
 # MyWorksOnLof
 
-也许，我们在世界尽头相见。
+也许，我们在世界尽头相见。  
 
+&nbsp;
+
+&nbsp;
+
+### 下载说明
 
 ![Image text](https://raw.githubusercontent.com/myNameLeo/LeoWorksOnLof/master/img1.jpg)
 
 
-图裂了没有关系我知道它裂了
+图裂了没有关系我知道它裂了。看文字也行
 
 点击本页面右上方绿色的那个按钮，Clone or download边上的小三角，下拉中选择Download ZIP即可下载。
 
